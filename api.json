@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": "c1",
+      "type": "course",
+      "title": "HTML CSS JavaScript Masterclass",
+      "instructor": "Sarah Johnson",
+      "cat": "Web Development",
+      "img": "https://foolishdeveloper.com/wp-content/uploads/2023/12/30-HTML-CSS-and-Javascript-Projects.png",
+      "rating": 4.8,
+      "reviews": 2341,
+      "price": 29.99,
+      "orig": 89.99,
+      "badge": "Bestseller",
+      "bc": "amber",
+      "level": "Beginner",
+      "dur": "24 hrs",
+      "lessons": 128
+    },
+    {
+      "id": "c2",
+      "type": "course",
+      "title": "React Frontend Course",
+      "instructor": "Emma Williams",
+      "cat": "React",
+      "img": "https://img-c.udemycdn.com/course/480x270/6704021_a06b.jpg",
+      "rating": 4.9,
+      "reviews": 7109,
+      "price": 54.99,
+      "orig": 149.99,
+      "badge": "Popular",
+      "bc": "violet",
+      "level": "All Levels",
+      "dur": "64 hrs",
+      "lessons": 380
+    }
+  ],
+
+  "books": [
+    {
+      "id": "b1",
+      "type": "book",
+      "title": "JavaScript Essentials",
+      "author": "Marcus Chen",
+      "cat": "JavaScript",
+      "cover": "https://m.media-amazon.com/images/I/61ZxqBT1dvL._UF1000,1000_QL80_.jpg",
+      "desc": "Learn modern JavaScript from beginner to advanced.",
+      "rating": 4.7,
+      "reviews": 1893,
+      "price": 19.99,
+      "orig": 49.99,
+      "pages": 420,
+      "badge": "Hot",
+      "bc": "amber",
+      "color": "#F59E0B"
+    }
+  ],
+
+  "videos": [
+    {
+      "id": "v1",
+      "type": "video",
+      "title": "Vue JS Crash Course",
+      "instructor": "Alex Rivera",
+      "cat": "Vue",
+      "thumb": "https://blog.vueschool.io/wp-content/uploads/2024/01/VS_Articles_Using_Vue_with_Laravel_1.png",
+      "rating": 4.8,
+      "reviews": 3214,
+      "price": 14.99,
+      "orig": 39.99,
+      "dur": "2h 45m",
+      "views": "54k",
+      "badge": "Trending",
+      "bc": "violet",
+      "tags": [
+        "Vue",
+        "Frontend",
+        "Laravel"
+      ],
+      "yt": "TKnzCr0_g1A"
+    }
+  ],
+
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Jessica Park",
+      "role": "Frontend Developer @ Google",
+      "avatar": "https://randomuser.me/api/portraits/women/44.jpg",
+      "rating": 5,
+      "text": "LearnFlow completely transformed my career.",
+      "item": "React Frontend Course"
+    },
+    {
+      "id": 2,
+      "name": "Carlos Mendes",
+      "role": "Full Stack Engineer @ Stripe",
+      "avatar": "https://randomuser.me/api/portraits/men/32.jpg",
+      "rating": 5,
+      "text": "Amazing platform with real-world projects.",
+      "item": "JavaScript Essentials"
+    }
+  ]
+}
